@@ -1,0 +1,7 @@
+{
+  "name": "VeloRoute AI",
+  "description": "A cycling route planner with AI-powered local food recommendations and elevation profiles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
